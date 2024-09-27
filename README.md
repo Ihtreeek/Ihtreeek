@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Keerthi</h1>
-<h3 align="center">A curious and innovative student with a strong interest in data science, artificial intelligence, and predictive modeling. Seeking a dynamic internship that provides hands-on experience and exposure to real-world data science applications.</h3>
+<h3 align="center"> A skilled Full Stack Developer with expertise in JavaScript React.js, Node.js, MongoDB, and SQL. I have experience in building
+ dynamic user interfaces, robust backend systems, and real-time applications. My work includes developing an e-commerce
+ web app, a real-time chat platform showcasing my ability to deliver effective solutions. Eager to contribute my skills to innova
+tive projects.</h3>
 
 <p align="left"> <a href="https://twitter.com/ihtreeek" target="blank"><img src="https://img.shields.io/twitter/follow/ihtreeek?logo=twitter&style=for-the-badge" alt="ihtreeek" /></a> </p>
 
-- 🔭 I’m currently working on **Adaptic Traffic Control**
+- 🔭 I’m currently working in **Incedo Inc**
 
-- 🌱 I’m currently learning **Natural Language Processing**
+- 🌱 I’m currently upskilling myself in **React**
 
-- 💬 Ask me about **Statistics,Ml Algorithms**
+- 💬 Ask me about **React,Node**
 
 - 📫 How to reach me **sabbisettikeerthi@gmail.com**
 
